@@ -29,7 +29,7 @@ TODO:
 [./top-walkthrough/odin-links-and-images/pages/about.html](./top-walkthrough/odin-links-and-images/pages/about.html)
 ![](./github-assets/08-11-2026-top-walkthrough_odin-links-and-images_pages_about.html.png)
 <br>
-[](./legacy/index.html)
+[./legacy/index.html](./legacy/index.html)
 ![](./github-assets/08-11-2026-legacy_index.html.png)
 <br>
 [./legacy/Lesson1Exercises.html](./legacy/Lesson1Exercises.html)

@@ -11,6 +11,7 @@ had to watch <a href="https://www.youtube.com/watch?v=S2Aj85DEUWs">this video</a
 
 TODO:
 - [ ] make a documentation website; I will be using [this video](https://www.youtube.com/watch?v=xKOhIJQi84w) as a source
+- [ ] make a python script that will crawl in the webpages through os.listdir()
 
 # Changelogs
 
